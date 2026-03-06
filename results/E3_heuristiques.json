@@ -1,0 +1,50 @@
+{
+  "facile": {
+    "h=0 (UCS)": {
+      "cout": 24,
+      "noeuds_developpes": 49,
+      "temps_s": 0.000591,
+      "taille_max_open": 4,
+      "longueur_chemin": 25
+    },
+    "Manhattan": {
+      "cout": 24,
+      "noeuds_developpes": 45,
+      "temps_s": 0.000491,
+      "taille_max_open": 6,
+      "longueur_chemin": 25
+    }
+  },
+  "moyenne": {
+    "h=0 (UCS)": {
+      "cout": 36,
+      "noeuds_developpes": 118,
+      "temps_s": 0.001111,
+      "taille_max_open": 7,
+      "longueur_chemin": 37
+    },
+    "Manhattan": {
+      "cout": 36,
+      "noeuds_developpes": 104,
+      "temps_s": 0.000772,
+      "taille_max_open": 10,
+      "longueur_chemin": 37
+    }
+  },
+  "difficile": {
+    "h=0 (UCS)": {
+      "cout": 48,
+      "noeuds_developpes": 190,
+      "temps_s": 0.001109,
+      "taille_max_open": 8,
+      "longueur_chemin": 49
+    },
+    "Manhattan": {
+      "cout": 48,
+      "noeuds_developpes": 172,
+      "temps_s": 0.001549,
+      "taille_max_open": 15,
+      "longueur_chemin": 49
+    }
+  }
+}
